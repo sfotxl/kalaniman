@@ -1,0 +1,29 @@
+{
+  "name": "kalaniman.com",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Kalani Man",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfotxl/kalaniman.git"
+  },
+  "keywords": [
+    "kalaniman",
+    "kalani"
+  ],
+  "author": "Kalani Man",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfotxl/kalaniman/issues"
+  },
+  "homepage": "https://github.com/sfotxl/kalaniman#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
