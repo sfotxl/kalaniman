@@ -2,7 +2,7 @@
   "name": "kalaniman.com",
   "version": "1.0.0",
   "description": "Personal portfolio website for Kalani Man",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
